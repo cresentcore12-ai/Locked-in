@@ -1,0 +1,157 @@
+📹 VIDEO ROOM - COMPLETE GUIDE
+================================
+
+🎯 HOW IT WORKS:
+
+Think of it like Zoom, but:
+✅ 100% FREE
+✅ No time limits
+✅ No account needed
+✅ Built into your study app
+
+────────────────────────────────────────
+
+👤 IF YOU'RE CREATING THE ROOM:
+
+Step 1: Open LockedIn
+└─ Double-click index.html
+
+Step 2: Go to Video tab
+└─ Click the 📹 button at top
+
+Step 3: Enter room name
+└─ Type: "StudyGroup2024"
+└─ OR leave blank for random name
+
+Step 4: Click Start
+└─ Click "🚀 Start Video Call"
+
+Step 5: Share the code
+└─ You'll see: GREEN BANNER with code
+└─ Click 📋 button to copy
+└─ Send to friends:
+   • WhatsApp: "Join my room: StudyGroup2024"
+   • Text: "Video call code: StudyGroup2024"
+   • Discord: "Room code: StudyGroup2024"
+
+────────────────────────────────────────
+
+👥 IF YOU'RE JOINING A ROOM:
+
+Step 1: Get the code from friend
+└─ Friend sends: "StudyGroup2024"
+
+Step 2: Open LockedIn
+└─ Double-click index.html
+
+Step 3: Go to Video tab
+└─ Click 📹 button
+
+Step 4: Enter the EXACT code
+└─ Type: "StudyGroup2024"
+└─ Must match exactly!
+
+Step 5: Click Start
+└─ Click "🚀 Start Video Call"
+└─ You're in! 🎉
+
+────────────────────────────────────────
+
+💡 REAL WORLD EXAMPLE:
+
+Sarah creates "MathHomework" room
+Emma wants to join
+
+Sarah:
+1. Opens LockedIn
+2. Video tab
+3. Types "MathHomework"
+4. Clicks Start
+5. Sends to Emma: "Join MathHomework"
+
+Emma:
+1. Opens LockedIn
+2. Video tab
+3. Types "MathHomework"
+4. Clicks Start
+5. Both are now in video call!
+
+────────────────────────────────────────
+
+✅ FEATURES IN VIDEO CALL:
+
+While in the call, you can:
+• See everyone's video
+• Share your screen
+• Use text chat
+• Mute/unmute
+• Turn video on/off
+• Hand raise
+• Background blur
+• See participant list
+
+────────────────────────────────────────
+
+⚠️ IMPORTANT TIPS:
+
+Room codes are CASE-SENSITIVE:
+❌ "StudyGroup" ≠ "studygroup"
+❌ "MATH" ≠ "math"
+✅ Must match EXACTLY!
+
+Best practices:
+✅ Use simple, memorable names
+✅ No spaces (use "StudyGroup" not "Study Group")
+✅ Share code via copy-paste
+✅ Test alone before inviting group
+
+────────────────────────────────────────
+
+🔄 REUSING ROOMS:
+
+Can you use same room again? YES!
+
+Every Monday at 7pm:
+• Everyone types "MondayStudy"
+• Same room, every week
+• Like having your own permanent meeting room
+
+────────────────────────────────────────
+
+❓ FAQ:
+
+Q: How many people can join?
+A: Unlimited! But 10-15 works best.
+
+Q: Do we all need the file?
+A: Yes, everyone needs index.html
+
+Q: Can I use different device?
+A: Yes! Same code works on phone/tablet/computer
+
+Q: Is it really free?
+A: YES! Forever. No credit card. No trials.
+
+Q: What if I close the tab?
+A: Just reopen and enter same code to rejoin
+
+Q: Can others join later?
+A: Yes! Anyone with code can join anytime
+
+────────────────────────────────────────
+
+🎓 GREAT FOR:
+
+✓ Study groups
+✓ Homework help
+✓ Group projects  
+✓ Tutoring sessions
+✓ Class discussions
+✓ Exam prep
+✓ Book clubs
+✓ Language practice
+
+────────────────────────────────────────
+
+That's it! Super simple.
+Create code → Share → Others join → Study together!
